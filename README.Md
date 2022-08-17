@@ -32,6 +32,13 @@ O segundo exercício é um jogo de sorte, o jogo deverá funcionar da seguinte m
 - Caso o usuário acerte a mensagem será **Parabéns você acertou!**
 - Caso erre a mensagem será **Tente novamente!**
 
+#### Dica: 
+Para gerar o número aleatório você deve usar o seguinte código:
+
+`const aleatoryPosition =  Math.floor(Math.random() * 4);`
+
+Esse código vai te retornar número 0,1,2 e 3.
+
 ![](https://i.imgur.com/OcWZKFT.png)
 
 
@@ -45,4 +52,4 @@ Preencha a checklist para fazer os exercícios:
 -   [ ] Após fazer e commitar todos os exercícios fazer o `git push` para seu fork
 -   [ ] Copiar a url do seu fork e enviar na plataforma
 
-###### tags: `módulo 2` `front-end` `HTML` `CSS` `JAVASCRIPT` `DOM`
+###### tags: `módulo 1` `front-end` `HTML` `CSS` `JAVASCRIPT` `DOM`
