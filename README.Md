@@ -1,6 +1,4 @@
-![](https://i.imgur.com/xG74tOh.png)
-
-# Manipulando a DOM - Exercícios
+manipulando a DOM - Exercícios
 
 
 Nesse repositório temos duas pastas de projetos, você deve fazer o fork para sua conta e depois clonar o repositório para o seu computador.
